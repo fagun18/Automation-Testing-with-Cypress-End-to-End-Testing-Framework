@@ -2,7 +2,7 @@
 
 # Cypress End-to-End Testing Framework
 
-![Cypress Logo](https://github.com/cypress-io/cypress/raw/develop/cli/icons/icon-128x128.png)
+![Cypress Logo](https://th.bing.com/th/id/OIP.pU_h27oaQTXPjLxAhMMG0AHaD4?rs=1&pid=ImgDetMain)
 
 Cypress is a JavaScript-based end-to-end testing framework commonly used for testing web applications. It allows you to write and execute tests in a real browser, providing a way to simulate user interactions and assert expected behaviors.
 
